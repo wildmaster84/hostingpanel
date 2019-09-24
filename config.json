@@ -1,7 +1,7 @@
 {
   "server": {
-    "name": "NSMineCraft",
-    "public_ip": "127.0.0.1"
+    "name": "Forever RolePlay",
+    "public_ip": "play.foreverroleplay.ga"
   },
   "jar_updates": [
     "http://s3.amazonaws.com/MinecraftDownload/launcher/minecraft_server.jar",
