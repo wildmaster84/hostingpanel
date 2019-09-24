@@ -1,12 +1,12 @@
 {
   "name": "MCGG",
-  "description": "A Web-based minecraft server",
+  "description": "Minecraft Hosting Panel",
   "keywords": [
     "games",
     "minecraft"
   ],
   "logo": "https://raw.githubusercontent.com/GGJohny/heroku-buildpack-mcgg/master/logo.jpg",
-  "repository": "https://github.com/ren232/mcgg",
+  "repository": "https://github.com/wildmaster84/hostingpanel",
   "env": {
     "MINECRAFT_EULA": {
       "description": "Do you accept the Minecraft EULA?",
@@ -35,7 +35,7 @@
       "url": "heroku/jvm"
     },
     {
-      "url": "https://github.com/ren232/mcgg"
+      "url": "https://github.com/wildmaster84/hostingpanel"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
