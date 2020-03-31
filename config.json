@@ -1,11 +1,12 @@
 {
   "server": {
     "name": "Forever RolePlay",
-    "public_ip": "play.foreverroleplay.ga"
+    "public_ip": "play.forevernetwork.xyz"
   },
   "jar_updates": [
     "http://s3.amazonaws.com/MinecraftDownload/launcher/minecraft_server.jar",
     "http://dl.bukkit.org/latest-rb/craftbukkit.jar"
+    "https://papermc.io/api/v1/paper/1.15.2/latest/download"
   ],
   "commands": {
     "start": "",
